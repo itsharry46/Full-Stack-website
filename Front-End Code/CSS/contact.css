@@ -1,0 +1,19 @@
+*{
+	margin:0 , padding: 0, box-sizing: border-box; 
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.navbar
+{
+	margin-bottom: 20px;
+}
+
+body
+{
+	background-color: rgb(140, 139, 139);
+}
+
+.jumbotron
+{
+	padding: 12%;
+}
